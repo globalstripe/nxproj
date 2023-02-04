@@ -14,4 +14,9 @@ const nextConfig = {
   },
 };
 
-module.exports = withNx(nextConfig);
+module.exports = {
+  withNx(nextConfig),
+  output: 'standalone'
+}
+
+// module.exports = withNx(nextConfig);
