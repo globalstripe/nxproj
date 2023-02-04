@@ -2,7 +2,11 @@
   "name": "ccdev",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+},
   "private": true,
   "dependencies": {
     "@nrwl/next": "15.6.3",
