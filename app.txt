@@ -1,2 +1,3 @@
 Just a trigger
-Changed Amplify BaseDirectory to include .next
+Changed Amplify baseDirectory: dist/apps/nxone/.next
+Trying just baseDirectory: .next
