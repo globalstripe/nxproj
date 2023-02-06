@@ -1,2 +1,2 @@
 Just a trigger
-1:16
+Changed Amplify BaseDirectory to include .next
