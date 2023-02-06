@@ -1,3 +1,6 @@
 Just a trigger
 Changed Amplify baseDirectory: dist/apps/nxone/.next
 Trying just baseDirectory: .next
+Didnt work change back to dist/apps/nxone/.next
+Take a look at this about monorepo and differnt Amplify.yaml
+https://docs.aws.amazon.com/amplify/latest/userguide/monorepo-configuration.html
